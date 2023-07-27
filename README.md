@@ -1,0 +1,1 @@
+# AM-duplicator-challenge-plugin
